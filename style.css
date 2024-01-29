@@ -28,6 +28,9 @@ header {
 .bluerow {
     background-color: #B1E5F2;
 }
+#lorem{
+    width: 50%;
+}
 #pic1{
     background-image: url("./img/monitor.jpg");
     background-size: cover;

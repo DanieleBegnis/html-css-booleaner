@@ -1,0 +1,16 @@
+header {
+    background-color:#4EA0FF ;
+    background-image: url("./img/pattern.png");
+    background-repeat: repeat;
+
+}
+#title {
+    font-size: 70px;
+    font-weight: 600;
+}
+.subtitle {
+    color: #808080;
+}
+.blue {
+    color: #20A9E5;
+}

@@ -28,3 +28,24 @@ header {
 .bluerow {
     background-color: #B1E5F2;
 }
+#pic1{
+    background-image: url("./img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+}
+#pic2{
+    background-image: url("./img/graph.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 207px;
+    width: 311px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+    margin-top: 20px;
+}

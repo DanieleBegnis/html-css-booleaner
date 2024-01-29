@@ -1,7 +1,11 @@
+#logo {
+    height: 100px;
+    margin-top: 50px;
+}
 header {
     background-color:#4EA0FF ;
     background-image: url("./img/pattern.png");
-    background-repeat: repeat;
+    background-size:contain ;
 
 }
 #title {
@@ -16,4 +20,7 @@ header {
 }
 .highlight{
     background-color: yellow;
+}
+#toprow{
+    background-color: #20A9E5;
 }

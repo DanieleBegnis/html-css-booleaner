@@ -23,4 +23,8 @@ header {
 }
 #toprow{
     background-color: #20A9E5;
+    color: white;
+}
+.bluerow {
+    background-color: #B1E5F2;
 }

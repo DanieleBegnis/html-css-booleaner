@@ -21,6 +21,9 @@ header {
 .highlight{
     background-color: yellow;
 }
+table {
+    border-spacing: 0px;
+}
 #toprow{
     background-color: #20A9E5;
     color: white;
